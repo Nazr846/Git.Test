@@ -1,3 +1,3 @@
-a  =
-b = 2
-print(a+b)
+a = 'Nazar'
+print(a)
+
