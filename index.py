@@ -1,2 +1,5 @@
-print('Hello Word')
+a = 6
+print(a)
+
+
 
